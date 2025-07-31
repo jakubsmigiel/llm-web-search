@@ -7,8 +7,8 @@ import json
 
 
 # HOST = '192.168.100.47'
-HOST = '10.0.0.5'
-# HOST = 'localhost'
+# HOST = '10.0.0.5'
+HOST = 'localhost'
 
 client = Client(
     host=f'http://{HOST}:11434'
